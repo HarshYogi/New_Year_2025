@@ -33,7 +33,7 @@ body {
 }
 
 .message {
-	font-size: 58px;
+	font-size: 50px;
 	text-align: justify;
 	font-weight: bold;
 	color: #1d3f34e6;
@@ -44,7 +44,7 @@ body {
 	opacity: 0;
 	transform: translateY(50px);
 	animation: slideIn 10s ease-out forwards;
-	margin-top: 400px;
+	margin-top: 300px;
 	line-height: 1.6;
 	padding: 0 10px;
 }
